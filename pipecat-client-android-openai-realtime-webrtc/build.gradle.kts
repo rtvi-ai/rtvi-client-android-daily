@@ -79,7 +79,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "ai.pipecat"
             artifactId = "openai-realtime-webrtc-transport"
-            version = "1.2.0"
+            version = "1.2.1"
 
             pom {
                 name.set("OpenAI Realtime WebRTC Transport")
